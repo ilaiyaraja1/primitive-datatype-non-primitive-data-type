@@ -14,7 +14,7 @@ package One;
   * 9.boolean     1bit            true & false  
   * 
   * 
-  * Non-primitive datatype
+  * Non-primitive datatype  (or)  Reference datatype
   * 
   * 1.classes
   * 2.interface
